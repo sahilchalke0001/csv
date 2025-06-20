@@ -1,7 +1,6 @@
 # CSV AI Agent: Intelligent Data Querying
 
-**Live Demo:** [https://csv-imdq.onrender.com](https://csv-imdq.onrender.com)  
-**GitHub Repository:** [https://github.com/sahilchalke0001/csv](https://github.com/sahilchalke0001/csv)
+**Live Demo:** [https://csv-imdq.onrender.com](https://csv-imdq.onrender.com)
 
 ## Introduction
 
@@ -89,13 +88,13 @@ Open your browser and navigate to [http://localhost:8501](http://localhost:8501)
 
 ## CSV Agent vs. Direct ChatGPT
 
-| Feature / Aspect              | CSV AI Agent (This Tool)                                                                 | Direct ChatGPT                                                                 |
-|------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Contextual Understanding & Data Privacy | LangChain-designed for tabular data. Data remains local. Enhanced privacy.           | Requires explicit prompting. May share data with external servers depending on provider. |
-| Tool-Augmented Reasoning     | Equipped with internal tools for direct data operations (filtering, sorting, etc.)       | No internal tools. Relies solely on LLM reasoning.                            |
-| Prompt Engineering           | Minimal. Just ask your CSV-related question.                                              | Requires detailed prompts to guide understanding.                             |
-| Efficiency & Accuracy        | More efficient and accurate for CSV-related queries.                                     | Less reliable for structured data without plugins.                            |
-| Domain Focus                 | Tailored for structured data analysis.                                                   | Broad and general-purpose.                                                    |
+| Feature / Aspect                        | CSV AI Agent (This Tool)                                                           | Direct ChatGPT                                                                           |
+| --------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Contextual Understanding & Data Privacy | LangChain-designed for tabular data. Data remains local. Enhanced privacy.         | Requires explicit prompting. May share data with external servers depending on provider. |
+| Tool-Augmented Reasoning                | Equipped with internal tools for direct data operations (filtering, sorting, etc.) | No internal tools. Relies solely on LLM reasoning.                                       |
+| Prompt Engineering                      | Minimal. Just ask your CSV-related question.                                       | Requires detailed prompts to guide understanding.                                        |
+| Efficiency & Accuracy                   | More efficient and accurate for CSV-related queries.                               | Less reliable for structured data without plugins.                                       |
+| Domain Focus                            | Tailored for structured data analysis.                                             | Broad and general-purpose.                                                               |
 
 In summary: CSV AI Agent offers a more robust, accurate, and efficient solution for querying CSV data than general-purpose LLMs.
 

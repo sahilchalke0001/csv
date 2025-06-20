@@ -30,10 +30,6 @@ This tool empowers users to perform complex data analysis conversationally—no 
 4. AI Processing: The agent interprets questions, interacts with CSV data (lookups, aggregations, calculations), and generates intelligent answers.
 5. Display Answer: Responses are rendered instantly in the web UI.
 
-## Live Demo
-
-Try it here: [https://csv-imdq.onrender.com](https://csv-imdq.onrender.com)
-
 ## Getting Started
 
 ### 1. Clone the Repository
